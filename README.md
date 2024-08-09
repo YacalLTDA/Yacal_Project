@@ -1,8 +1,7 @@
 # Yacal
-EMPRESA DESENVOLVEDORA DE APLICATIVOS VARIADOS
 
 <h1 align="center">
-  Disciplina de Orientação a Objetos
+ EMPRESA DESENVOLVEDORA DE APLICATIVOS VARIADOS
 </h1>
 
 ### Feito por:
